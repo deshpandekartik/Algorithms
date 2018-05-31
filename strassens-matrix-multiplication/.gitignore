@@ -1,0 +1,5 @@
+*.swp
+*.backup
+*.backup*
+*.out
+*.new
